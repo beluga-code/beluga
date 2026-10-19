@@ -1,0 +1,5 @@
+levanter/
+node_modules/
+beluga-data/
+.env
+*.log
