@@ -1,0 +1,341 @@
+{
+  "schemaVersion": 1,
+  "favorites": {
+    "baiting": [
+      "sticker-007",
+      "sticker-008",
+      "sticker-015",
+      "sticker-023",
+      "sticker-030",
+      "sticker-033",
+      "sticker-034",
+      "sticker-052"
+    ],
+    "deadpan": [
+      "sticker-001",
+      "sticker-013",
+      "sticker-018",
+      "sticker-024"
+    ],
+    "surprised": [
+      "sticker-004",
+      "sticker-010",
+      "sticker-038",
+      "sticker-047"
+    ]
+  },
+  "stickers": [
+    {
+      "id": "sticker-001",
+      "file": "stickers/sticker-001.webp",
+      "description": "A dark-skinned man in a black suit sits at a table with a calm, serious look.",
+      "animated": false
+    },
+    {
+      "id": "sticker-002",
+      "file": "stickers/sticker-002.webp",
+      "description": "Two anime fighters clash in an exaggerated action scene.",
+      "animated": false
+    },
+    {
+      "id": "sticker-003",
+      "file": "stickers/sticker-003.webp",
+      "description": "An anime collage with pink-haired and pale-haired characters in a gentle, curious moment.",
+      "animated": true
+    },
+    {
+      "id": "sticker-004",
+      "file": "stickers/sticker-004.webp",
+      "description": "A wide-eyed animal stares in alarm from a dark scene.",
+      "animated": true
+    },
+    {
+      "id": "sticker-005",
+      "file": "stickers/sticker-005.webp",
+      "description": "A man reacts with amused, overwhelmed energy; laughing and crying emojis appear over him.",
+      "animated": true
+    },
+    {
+      "id": "sticker-006",
+      "file": "stickers/sticker-006.webp",
+      "description": "A Pepe face and a person leaning over a pet make an awkward, absurd scene.",
+      "animated": false
+    },
+    {
+      "id": "sticker-007",
+      "file": "stickers/sticker-007.webp",
+      "description": "A grinning Pepe character in a checked shirt gives a classic troll-face look.",
+      "animated": false
+    },
+    {
+      "id": "sticker-008",
+      "file": "stickers/sticker-008.webp",
+      "description": "Vegeta gives a confident, smug anime smirk.",
+      "animated": true
+    },
+    {
+      "id": "sticker-009",
+      "file": "stickers/sticker-009.webp",
+      "description": "Two anime characters share an awkwardly close, tender-looking moment.",
+      "animated": true
+    },
+    {
+      "id": "sticker-010",
+      "file": "stickers/sticker-010.webp",
+      "description": "A man wearing a headset reacts with a wide-mouthed gasp.",
+      "animated": true
+    },
+    {
+      "id": "sticker-011",
+      "file": "stickers/sticker-011.webp",
+      "description": "A Pepe character and a person splash around in water.",
+      "animated": true
+    },
+    {
+      "id": "sticker-012",
+      "file": "stickers/sticker-012.webp",
+      "description": "Pepe characters appear in a subway scene, looking out of place.",
+      "animated": false
+    },
+    {
+      "id": "sticker-013",
+      "file": "stickers/sticker-013.webp",
+      "description": "A man calmly sips a drink while giving a knowing side-eye.",
+      "animated": true
+    },
+    {
+      "id": "sticker-014",
+      "file": "stickers/sticker-014.webp",
+      "description": "A black-and-white portrait of an elderly man looking thoughtful.",
+      "animated": false
+    },
+    {
+      "id": "sticker-015",
+      "file": "stickers/sticker-015.webp",
+      "description": "A basketball player falls while a graphic points out a one-percent statistic.",
+      "animated": false
+    },
+    {
+      "id": "sticker-016",
+      "file": "stickers/sticker-016.webp",
+      "description": "Two anime women share a warm embrace.",
+      "animated": false
+    },
+    {
+      "id": "sticker-017",
+      "file": "stickers/sticker-017.webp",
+      "description": "A man in sunglasses and orange clothing poses with cool, unbothered energy.",
+      "animated": true
+    },
+    {
+      "id": "sticker-018",
+      "file": "stickers/sticker-018.webp",
+      "description": "A bald man in a blue suit and glasses rests his hand at his chin, looking mock-serious and calculating.",
+      "animated": false
+    },
+    {
+      "id": "sticker-019",
+      "file": "stickers/sticker-019.webp",
+      "description": "A red dinosaur-like cartoon character makes an unimpressed face.",
+      "animated": false
+    },
+    {
+      "id": "sticker-020",
+      "file": "stickers/sticker-020.webp",
+      "description": "An older man laughs with an open-mouthed, surprised expression.",
+      "animated": false
+    },
+    {
+      "id": "sticker-021",
+      "file": "stickers/sticker-021.webp",
+      "description": "A dramatic black-and-white montage of serious faces creates an ominous mood.",
+      "animated": false
+    },
+    {
+      "id": "sticker-022",
+      "file": "stickers/sticker-022.webp",
+      "description": "A baby gives a solemn, unimpressed pout.",
+      "animated": true
+    },
+    {
+      "id": "sticker-023",
+      "file": "stickers/sticker-023.webp",
+      "description": "A close-up man makes a sleepy, smug half-smile.",
+      "animated": true
+    },
+    {
+      "id": "sticker-024",
+      "file": "stickers/sticker-024.webp",
+      "description": "A black-and-white bearded man in a hat looks skeptical and contemplative.",
+      "animated": false
+    },
+    {
+      "id": "sticker-025",
+      "file": "stickers/sticker-025.webp",
+      "description": "A seated man looks relaxed in a short reaction clip.",
+      "animated": true
+    },
+    {
+      "id": "sticker-026",
+      "file": "stickers/sticker-026.webp",
+      "description": "A close-up face looks bewildered and slightly overwhelmed.",
+      "animated": true
+    },
+    {
+      "id": "sticker-027",
+      "file": "stickers/sticker-027.webp",
+      "description": "SpongeBob and Patrick share an underwater moment of confusion.",
+      "animated": false
+    },
+    {
+      "id": "sticker-028",
+      "file": "stickers/sticker-028.webp",
+      "description": "A crossed-out dog symbol makes a blunt, sign-like reaction.",
+      "animated": false
+    },
+    {
+      "id": "sticker-029",
+      "file": "stickers/sticker-029.webp",
+      "description": "Pepe looks out over a city from a rooftop, in a contemplative pose.",
+      "animated": false
+    },
+    {
+      "id": "sticker-030",
+      "file": "stickers/sticker-030.webp",
+      "description": "A Pepe character makes a cheeky, exaggerated troll gesture.",
+      "animated": true
+    },
+    {
+      "id": "sticker-031",
+      "file": "stickers/sticker-031.webp",
+      "description": "A small owl-like animal watches with curious, wide eyes.",
+      "animated": true
+    },
+    {
+      "id": "sticker-032",
+      "file": "stickers/sticker-032.webp",
+      "description": "An anime girl gives a gentle, warm smile.",
+      "animated": true
+    },
+    {
+      "id": "sticker-033",
+      "file": "stickers/sticker-033.webp",
+      "description": "Cristiano Ronaldo gives a knowing, smug smile.",
+      "animated": true
+    },
+    {
+      "id": "sticker-034",
+      "file": "stickers/sticker-034.webp",
+      "description": "A Pepe-themed anime scene shows characters in a dramatic, playful pose.",
+      "animated": true
+    },
+    {
+      "id": "sticker-035",
+      "file": "stickers/sticker-035.webp",
+      "description": "A person in a bright pink outfit is caught mid-step in a chaotic moment.",
+      "animated": true
+    },
+    {
+      "id": "sticker-036",
+      "file": "stickers/sticker-036.webp",
+      "description": "SpongeBob makes a big, open-mouthed shocked face.",
+      "animated": false
+    },
+    {
+      "id": "sticker-037",
+      "file": "stickers/sticker-037.webp",
+      "description": "A football player reacts on the pitch during a match.",
+      "animated": true
+    },
+    {
+      "id": "sticker-038",
+      "file": "stickers/sticker-038.webp",
+      "description": "A close-up man covers his mouth in disbelief.",
+      "animated": false
+    },
+    {
+      "id": "sticker-039",
+      "file": "stickers/sticker-039.webp",
+      "description": "A hand-drawn face is circled with a red arrow, pointing out a detail.",
+      "animated": false
+    },
+    {
+      "id": "sticker-040",
+      "file": "stickers/sticker-040.webp",
+      "description": "Dark fantasy characters clash in a dramatic fight scene.",
+      "animated": false
+    },
+    {
+      "id": "sticker-041",
+      "file": "stickers/sticker-041.webp",
+      "description": "An intense anime or game scene shows a glowing weapon and a dramatic confrontation.",
+      "animated": false
+    },
+    {
+      "id": "sticker-042",
+      "file": "stickers/sticker-042.webp",
+      "description": "A SpongeBob meme says, ‘he not talking to me,’ for a pointed, playful reaction.",
+      "animated": false
+    },
+    {
+      "id": "sticker-043",
+      "file": "stickers/sticker-043.webp",
+      "description": "A grinning Pepe face appears beside a religious-looking figure in an absurd juxtaposition.",
+      "animated": true
+    },
+    {
+      "id": "sticker-044",
+      "file": "stickers/sticker-044.webp",
+      "description": "A person in a red shirt has a Pepe face overlay and a big grin.",
+      "animated": true
+    },
+    {
+      "id": "sticker-045",
+      "file": "stickers/sticker-045.webp",
+      "description": "A Pepe reaction appears beside a seated person in a room, making an awkward scene.",
+      "animated": true
+    },
+    {
+      "id": "sticker-046",
+      "file": "stickers/sticker-046.webp",
+      "description": "A happy Pepe face has a small heart above it.",
+      "animated": true
+    },
+    {
+      "id": "sticker-047",
+      "file": "stickers/sticker-047.webp",
+      "description": "A wide-eyed white character or toy makes a shocked open-mouth expression.",
+      "animated": true
+    },
+    {
+      "id": "sticker-048",
+      "file": "stickers/sticker-048.webp",
+      "description": "A yellow baby face gives a bright, puzzled expression.",
+      "animated": true
+    },
+    {
+      "id": "sticker-049",
+      "file": "stickers/sticker-049.webp",
+      "description": "A Pepe face appears over a person with arms spread in a chaotic outdoor scene.",
+      "animated": true
+    },
+    {
+      "id": "sticker-050",
+      "file": "stickers/sticker-050.webp",
+      "description": "Two Pepe-faced figures face each other in a tense but comic interaction.",
+      "animated": true
+    },
+    {
+      "id": "sticker-051",
+      "file": "stickers/sticker-051.webp",
+      "description": "A Pepe-faced figure appears in a room during an odd slapstick moment.",
+      "animated": false
+    },
+    {
+      "id": "sticker-052",
+      "file": "stickers/sticker-052.webp",
+      "description": "A close-up grinning Pepe face gives a celebratory troll smile.",
+      "animated": true
+    }
+  ]
+}
